@@ -1,0 +1,52 @@
+/* Outer Div Poperty */
+#outerDiv{
+    height: 445px;
+    width: 252px;
+    background-color: rgba(165, 42, 42, 0.971);
+    margin-left: 35%;
+    margin-top:5%
+}
+
+/* Display Property */
+.input{
+    height: 50px;
+    width: 245px;
+    color:blue;
+    text-align: right;
+   font-size:40px;
+}
+
+/* Make Button Property */
+div div button{
+    height: 70px;
+    width: 60px;
+    border-radius: 3px;
+    font-size:30px;
+}
+
+/* Hover Proprerty */
+div div button:hover{
+  background-color: rgba(20, 232, 232, 0.487);
+}
+
+/* Handle Zero Button */
+
+#zero{
+    width: 124px;
+}
+
+/* Handel Text*/
+#text{
+    background-color: rgb(220, 228, 228);
+    margin-bottom: -15px;
+    font-size:34px;
+} 
+
+/* Right Side Button Handle*/
+#dd{
+    background-color: chartreuse;
+}
+/* Hover Proprerty */
+#dd:hover{
+    background-color: rgba(250, 25, 0, 0.487);
+  }
